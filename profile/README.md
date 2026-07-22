@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Albumentations — open-source image augmentation ecosystem for computer vision">
+  <img src="./assets/hero.png" width="100%" alt="Albumentations — fast image augmentation for computer vision data pipelines">
 </p>
 
 <p align="center">
