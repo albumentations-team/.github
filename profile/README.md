@@ -46,9 +46,11 @@ to test transforms in the browser.
 
 ## The ecosystem
 
-| Project | What it provides |
+| Component | What it provides |
 | --- | --- |
 | [**AlbumentationsX**](https://github.com/albumentations-team/AlbumentationsX) | Actively developed augmentation pipelines for images and synchronized annotations. |
+| [**Website and documentation**](https://albumentations.ai/) | Project homepage, guides, API documentation, blog, benchmarks, and transform reference. |
+| [**Explore**](https://albumentations.ai/explore/) | Interactive browser playground for trying every transform on user-uploaded images. |
 | [**Albucore**](https://github.com/albumentations-team/albucore) | Optimized atomic image-processing functions with workload-aware backend selection. |
 | [**albu-spec**](https://github.com/albumentations-team/albu-spec) | Structured, typed metadata extracted from AlbumentationsX transforms. |
 | [**Benchmark suite**](https://github.com/albumentations-team/benchmark) | Reproducible image, multichannel, video, and DataLoader comparisons. |
