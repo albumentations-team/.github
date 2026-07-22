@@ -61,10 +61,10 @@ to test transforms in the browser.
 
 <table>
   <tr>
-    <td align="center"><strong>160.7M</strong><br>PyPI downloads</td>
-    <td align="center"><strong>15.3k</strong><br>GitHub stars</td>
-    <td align="center"><strong>40k+</strong><br>GitHub-reported public dependents</td>
-    <td align="center"><strong>2,270</strong><br>citing research works</td>
+    <td align="center"><a href="https://albumentations.ai/adoption/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile"><strong>160.7M</strong><br>PyPI downloads</a></td>
+    <td align="center"><a href="https://albumentations.ai/adoption/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile"><strong>15.3k</strong><br>GitHub stars</a></td>
+    <td align="center"><a href="https://albumentations.ai/adoption/github/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile"><strong>40k+</strong><br>GitHub-reported public dependents</a></td>
+    <td align="center"><a href="https://albumentations.ai/adoption/papers/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile"><strong>2,270</strong><br>citing research works</a></td>
   </tr>
 </table>
 
