@@ -81,16 +81,19 @@ Albumentations is a
 
 ## Licensing
 
-Components of the ecosystem use different licenses. The legacy
-[`albumentations`](https://github.com/albumentations-team/albumentations)
-package and repository remain available under the MIT License. The current
-[`albumentationsx`](https://github.com/albumentations-team/AlbumentationsX)
-package and repository are available under AGPL-3.0-only.
+[AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX)
+offers two licensing options:
 
-The AGPL permits commercial use subject to its terms. Albumentations, LLC also
-offers [separately negotiated commercial licenses for AlbumentationsX](https://albumentations.ai/pricing?utm_source=github&utm_medium=referral&utm_campaign=org_profile),
-with alternative rights defined by the applicable agreement. Whether a
-particular use complies with the AGPL depends on the deployment facts.
+- **Commercial license:** agree on alternative rights for proprietary applications
+  and services, with coverage for your teams, products, and customer deployments.
+  Your agreement with Albumentations, LLC defines the scope, price, and term.
+  [Request a quote](https://albumentations.ai/pricing?utm_source=github&utm_medium=referral&utm_campaign=org_profile).
+- **AGPL-3.0-only:** available at no charge, including for commercial use, subject
+  to its terms. Commercial or proprietary status alone does not require a
+  purchase. Read the [license guide](https://albumentations.ai/docs/license/).
+
+The legacy [`albumentations`](https://github.com/albumentations-team/albumentations)
+package and repository remain available under the MIT License.
 
 ## Join the project
 
@@ -98,6 +101,9 @@ particular use complies with the AGPL depends on the deployment facts.
 - Ask usage questions and meet other practitioners on [Discord](https://discord.gg/AKPrrDYNAt).
 - Follow releases and tutorials through the [newsletter](https://albumentations.ai/subscribe?utm_source=github&utm_medium=referral&utm_campaign=org_profile).
 - Support long-term maintenance through [GitHub Sponsors](https://github.com/sponsors/albumentations-team).
+
+Sponsorship supports maintenance; it does not include a commercial license or
+support agreement.
 
 <p align="center">
   <a href="https://github.com/albumentations-team/AlbumentationsX">Code</a>
