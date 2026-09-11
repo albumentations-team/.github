@@ -87,7 +87,8 @@ offers two licensing options:
 - **Commercial license:** agree on alternative rights for proprietary applications
   and services, with coverage for your teams, products, and customer deployments.
   Your agreement with Albumentations, LLC defines the scope, price, and term.
-  [Request a quote](https://albumentations.ai/pricing?utm_source=github&utm_medium=referral&utm_campaign=org_profile).
+  [Request a quote](https://albumentations.ai/pricing?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
+  or email [vladimir@albumentations.ai](mailto:vladimir@albumentations.ai).
 - **AGPL-3.0-only:** available at no charge, including for commercial use, subject
   to its terms. Commercial or proprietary status alone does not require a
   purchase. Read the [license guide](https://albumentations.ai/docs/license/).
